@@ -1,0 +1,7 @@
+interface:
+  display_name: "PKPilot Plasma PK"
+  short_description: "Run auditable plasma PK analysis without source setup"
+  default_prompt: "Use $pkpilot-plasma-pk to analyze this plasma PK Excel or CSV file."
+
+policy:
+  allow_implicit_invocation: true
