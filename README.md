@@ -1,6 +1,6 @@
 # PKPilot Plasma PK Skill
 
-PKPilot is an installable Codex skill for local, auditable noncompartmental Plasma PK analysis. The public repository contains only the skill wrapper and documentation; the PK/NCA backend is distributed as a compiled GitHub Release binary.
+PKPilot is a local Plasma PK/NCA analysis tool for macOS. It can run as a standalone CLI or be installed as a Codex skill.Auditable noncompartmental Plasma PK analysis. The public repository contains only the skill wrapper and documentation; the PK/NCA backend is distributed as a compiled GitHub Release binary.
 
 ## Platform
 
